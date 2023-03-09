@@ -8,14 +8,14 @@ Das Kanban-Board besteht aus drei Spalten: "To Do", "In Progress" und "Done". Je
 
 ## Technologien
 
-Das Kanban-Board wurde mit HTML, CSS und JavaScript erstellt. Für das Drag-and-Drop-System habe ich die Bibliothek [jQuery UI](https://jqueryui.com/) verwendet. Ich habe auch [FontAwesome](https://fontawesome.com/) für Icons verwendet, um das Board optisch ansprechender zu gestalten.
+Das Kanban-Board wurde mit HTML, CSS und JavaScript erstellt. Weitere Frameworks sind in Planung.
 
 ## Installation
 
 Um das Kanban-Board zu verwenden, muss der Quellcode auf einem Webserver oder lokal auf einem Computer ausgeführt werden. Zum Ausführen des Boards können Sie die folgenden Schritte ausführen:
 
 1. Klone das Repository auf deinen Computer:
-git clone https://github.com/BENUTZERNAME/Kanban-Board.git
+git clone https://github.com/Smolig/Kanban-Board
 
 2. Öffne die index.html-Datei im Browser deiner Wahl.
 
@@ -35,4 +35,4 @@ Ich bin offen für Beiträge und Verbesserungsvorschläge für das Kanban-Board.
 
 ## Lizenz
 
-Dieses Projekt ist unter der [MIT-Lizenz](https://opensource.org/licenses/MIT) lizenziert.
+
